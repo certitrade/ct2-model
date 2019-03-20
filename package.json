@@ -1,5 +1,5 @@
 {
- "name": "@certitrade/ct2-card",
+ "name": "@certitrade/ct2-model",
  "version": "2.0.0",
  "description": "Common model library for Certitrade version 2 Card and PSP.",
  "author": "Simon Mika <simon.mika@certitrade.se>",
