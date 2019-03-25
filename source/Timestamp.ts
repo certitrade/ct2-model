@@ -16,4 +16,7 @@ export namespace Timestamp {
 			value.getUTCMinutes().toString().padStart(2, "0") + ":" +
 			value.getUTCSeconds().toString().padStart(2, "0")
 	}
+	export function now(): Timestamp {
+		return create(new Date())
+	}
 }
